@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maged-atef&show_icons=true&locale=en" alt="maged-atef" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maged-atef&" alt="maged-atef" /></p>
+<h2>Nothing is Real if You Blind To See</h2>
